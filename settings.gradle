@@ -1,0 +1,1 @@
+include ':app', ':threadlint', ':threadlint_aar'
